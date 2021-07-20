@@ -14,3 +14,7 @@ ale czasem stare teź jest jare
 # Nowa część
 
 tu powstała nowa branch
+
+## Part of new
+
+tu powstaje coś innego
