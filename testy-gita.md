@@ -29,4 +29,4 @@ takie tam
 
 # Kolejny dzień
 
-słoneczny dzień
+słoneczny dzień, pochmurny dzień
