@@ -17,3 +17,5 @@ jest późno i już trochę nie ogarniam
 # Nowy dzień
 
 **NOWE OPCJE**
+
+nowe możliwości, nowe horyzonty
